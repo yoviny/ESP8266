@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="com.assignment.mobile" version="2.25" xmlns="http://www.w3.org/ns/widgets">
+  <name>CN Assignment</name>
+  <description>Control LED via Internet</description>
+  <author email="yovin.yahathugoda@gmail.com" href="http://www.yoviny.com">Made by Yovin Yahathugoda</author>
+  <preference name="phonegap-version" value="cli-6.5.0" />
+  <preference name="permissions" value="none" />
+  <preference name="orientation" value="portrait" />
+  <preference name="target-device" value="universal" />
+  <preference name="fullscreen" value="true" />
+  
+  <icon src="app-icon.png" />
+</widget>
